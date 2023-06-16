@@ -1,0 +1,8 @@
+# opevcv-yolov5s-face-recognize
+自己写的一个很屑的人脸识别小demo
+
+两个recognize对应本地摄像头和网络摄像头
+网络摄像头的要先跑server
+infer是fastdeploy本来的例子
+先跑training出模型
+demo是什么我忘了
